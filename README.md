@@ -1,7 +1,8 @@
 # Automatically Change W.TV Resolution
 
-Usage: **Selects the best available preferred quality.**
-Optional: **Possible** bugfix for Firefox users which cannot select their resolution (not fully tested yet).
+> - Usage: **Selects the best available preferred quality.**
+
+> - Optional Usage: **Possible** bugfix for Firefox users which cannot select their resolution (not fully tested yet).
 
 ---
 
