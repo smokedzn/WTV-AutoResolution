@@ -1,10 +1,11 @@
 // ==UserScript==
 // @name         Change Quality from 'Auto' to High
 // @namespace    smokedzn
-// @version      0.87
+// @version      0.9
 // @description  Selects the best available preferred quality.
 // @match        https://w.tv/*
 // @run-at       document-idle
+// @downloadURL  https://github.com/smokedzn/WTV-AutoResolution/raw/refs/heads/main/Change%20Quality%20from%20'Auto'%20to%20High-0.87.user.js
 // @grant        none
 // ==/UserScript==
 
